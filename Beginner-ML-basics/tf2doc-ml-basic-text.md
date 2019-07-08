@@ -10,9 +10,9 @@ keywords:
 - IMDB datasets
 - 文本分类
 categories:
-- TensorFlow文档
+- TensorFlow2文档
 image: post/tf2doc-ml-basic-text/imdb-sm.jpg
-github: https://github.com/geektutu/tensorflow2-docs
+github: https://github.com/geektutu/tensorflow2-docs-zh
 ---
 
 **文本分类 Classify text**
@@ -201,5 +201,7 @@ for name, value in zip(model.metrics_names, results):
 ```
 
 这个非常基础的模型达到了87%的正确率，复杂一点的模型可以达到95%。
+
+返回[文档首页](https://geektutu.com/post/tf2doc.html)
 
 > 参考地址：[Text classification of movie reviews with Keras and TensorFlow Hub](https://www.tensorflow.org/beta/tutorials/keras/basic_text_classification_with_tfhub)

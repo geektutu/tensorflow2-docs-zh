@@ -1,22 +1,22 @@
 ---
-title: TensorFlow 2 中文文档 - 序言
+title: TensorFlow 2 / 2.0 中文文档 - 序言
 date: 2019-07-09 00:10:10
 description: TensorFlow 2 官方文档中文版，有删改，序言，介绍整个文档的构成。
 tags:
 - TensorFlow 2
 - 官方文档
 categories:
-- TensorFlow文档
+- TensorFlow2文档
 image: post/tf2doc/tf.jpg
-github: https://github.com/geektutu/tensorflow2-docs
+github: https://github.com/geektutu/tensorflow2-docs-zh
 ---
 
 ![TensorFlow 2.0](tf2doc/tf.jpg)
 
 ## 文档地址
 
-- 文档地址：[TensorFlow 2 中文文档](https://geektutu.com/post/tf2doc.html)
-- Github：[Github - tensorflow2-docs](https://github.com/geektutu/tensorflow2-docs)
+- 文档地址：[TensorFlow 2 / 2.0 中文文档](https://geektutu.com/post/tf2doc.html)
+- Github：[Github - tensorflow2-docs](https://github.com/geektutu/tensorflow2-docs-zh)
 - 知乎专栏：[Zhihu - Tensorflow2-docs](https://zhuanlan.zhihu.com/geektutu)
 
 ## 目录(持续更新)

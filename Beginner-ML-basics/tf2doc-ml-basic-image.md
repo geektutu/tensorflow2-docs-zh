@@ -10,9 +10,9 @@ keywords:
 - 图像分类
 - Classify images
 categories:
-- TensorFlow文档
+- TensorFlow2文档
 image: post/tf2doc-ml-basic-image/fashion-mnist-sm.jpg
-github: https://github.com/geektutu/tensorflow2-docs
+github: https://github.com/geektutu/tensorflow2-docs-zh
 ---
 
 **图像分类 Classify images**
@@ -165,5 +165,7 @@ array([1.06-05, 5.06-12, 8.44-08, 4.09-09, 2.87-07, 2.28-04,
 np.argmax(predictions[0]) # 9
 test_labels[0] # 9
 ```
+
+返回[文档首页](https://geektutu.com/post/tf2doc.html)
 
 > 参考地址：[Train your first neural network: basic classification](https://www.tensorflow.org/beta/tutorials/keras/basic_classification)

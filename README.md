@@ -1,11 +1,11 @@
-# TensorFlow 2 官方文档中文版
-
-## 地址
+# TensorFlow 2 / 2.0 官方文档中文版
 
 ![TensorFlow 2.0](tf2doc/tf.jpg)
 
+## 地址
+
 - 文档地址：[TensorFlow 2 中文文档](https://geektutu.com/post/tf2doc.html)
-- Github：[Github - tensorflow2-docs](https://github.com/geektutu/tensorflow2-docs)
+- Github：[Github - tensorflow2-docs](https://github.com/geektutu/tensorflow2-docs-zh)
 - 知乎专栏：[Zhihu - Tensorflow2-docs](https://zhuanlan.zhihu.com/geektutu)
 
 ## 目录(持续更新)
