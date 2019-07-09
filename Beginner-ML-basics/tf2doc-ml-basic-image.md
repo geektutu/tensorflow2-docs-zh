@@ -15,7 +15,7 @@ image: post/tf2doc-ml-basic-image/fashion-mnist-sm.jpg
 github: https://github.com/geektutu/tensorflow2-docs-zh
 ---
 
-**图像分类 Classify images**
+**TensorFlow 2 / 2.0 中文文档 - 图像分类 Classify images**
 
 主要内容：使用神经网络对服饰图片进行分类。
 

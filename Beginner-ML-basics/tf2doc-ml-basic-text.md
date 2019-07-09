@@ -15,7 +15,7 @@ image: post/tf2doc-ml-basic-text/imdb-sm.jpg
 github: https://github.com/geektutu/tensorflow2-docs-zh
 ---
 
-**文本分类 Classify text**
+**TensorFlow 2 / 2.0 中文文档 - 文本分类 Classify text**
 
 主要内容：使用迁移学习算法解决一个典型的二分分类(Binary Classification)问题——电影正向评论和负向评论分类。
 
@@ -205,3 +205,4 @@ for name, value in zip(model.metrics_names, results):
 返回[文档首页](https://geektutu.com/post/tf2doc.html)
 
 > 参考地址：[Text classification of movie reviews with Keras and TensorFlow Hub](https://www.tensorflow.org/beta/tutorials/keras/basic_text_classification_with_tfhub)
+
