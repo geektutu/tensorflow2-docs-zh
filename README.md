@@ -14,8 +14,8 @@
 
 1. [图像分类 Classify images](https://geektutu.com/post/tf2doc-ml-basic-image.html)
 2. [文本分类 Classify text](https://geektutu.com/post/tf2doc-ml-basic-text.html)
-3. [结构化数据分类 Classify structured data](https://geektutu.com/tf2doc-ml-basic-structured-data.html)
-4. 回归 Regression
+3. [结构化数据分类 Classify structured data](https://geektutu.com/post/tf2doc-ml-basic-structured-data.html)
+4. [回归 Regression](https://geektutu.com/post/tf2doc-ml-basic-regression.html)
 5. 过拟合与欠拟合 Overfitting and underfitting
 6. 保存和恢复模型 Save and restore models
 
