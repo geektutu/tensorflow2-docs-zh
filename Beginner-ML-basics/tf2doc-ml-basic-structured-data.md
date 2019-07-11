@@ -1,7 +1,7 @@
 ---
 title: TensorFlow 2 中文文档 - 特征工程结构化数据分类
 date: 2019-07-09 23:45:10
-description: TensorFlow 2 官方文档中文版，结构化数据分类 Classify structured data，示例使用心脏病数据集。
+description: TF2.0 TensorFlow 2 / 2.0 官方文档中文版，结构化数据分类 Classify structured data，示例使用心脏病数据集。
 tags:
 - TensorFlow 2
 - 官方文档
@@ -16,7 +16,7 @@ github: https://github.com/geektutu/tensorflow2-docs-zh
 
 ![structured-data](tf2doc-ml-basic-structured-data/structured-data.jpg)
 
-**TensorFlow 2 / 2.0 中文文档 - 结构化数据分类 Classify structured data**
+**TF2.0 TensorFlow 2 / 2.0 中文文档 - 结构化数据分类 Classify structured data**
 
 主要内容：介绍如何对结构化数据（例如 CSV 中的表格数据）分类。
 

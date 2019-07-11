@@ -1,7 +1,7 @@
 ---
 title: TensorFlow 2 中文文档 - 回归预测燃油效率
 date: 2019-07-11 01:00:10
-description: TensorFlow 2 官方文档中文版，Regression 回归，示例使用 Auto MPG 燃油效率数据集。
+description: TF2.0 TensorFlow 2 / 2.0 官方文档中文版，Regression 回归，示例使用 Auto MPG 燃油效率数据集。
 tags:
 - TensorFlow 2
 - 官方文档
@@ -14,7 +14,7 @@ image: post/tf2doc-ml-basic-regression/sns.jpg
 github: https://github.com/geektutu/tensorflow2-docs-zh
 ---
 
-**TensorFlow 2 / 2.0 文档：Regression 回归**
+**TF2.0 TensorFlow 2 / 2.0 文档：Regression 回归**
 
 主要内容：使用回归预测烟油效率。
 

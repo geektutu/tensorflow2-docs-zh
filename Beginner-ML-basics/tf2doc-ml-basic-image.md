@@ -1,7 +1,7 @@
 ---
 title: TensorFlow 2 中文文档 - MNIST 图像分类
 date: 2019-07-09 00:30:10
-description: TensorFlow 2 官方文档中文版，图像分类 Classify images，示例使用 Fashion MNIST 数据集。
+description: TF2.0 TensorFlow 2 / 2.0 官方文档中文版，图像分类 Classify images，示例使用 Fashion MNIST 数据集。
 tags:
 - TensorFlow 2
 - 官方文档
@@ -15,7 +15,7 @@ image: post/tf2doc-ml-basic-image/fashion-mnist-sm.jpg
 github: https://github.com/geektutu/tensorflow2-docs-zh
 ---
 
-**TensorFlow 2 / 2.0 中文文档 - 图像分类 Classify images**
+**TF2.0 TensorFlow 2 / 2.0 中文文档 - 图像分类 Classify images**
 
 主要内容：使用神经网络对服饰图片进行分类。
 
