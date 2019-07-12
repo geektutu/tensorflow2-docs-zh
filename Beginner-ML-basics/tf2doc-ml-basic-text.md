@@ -1,12 +1,13 @@
 ---
 title: TensorFlow 2 中文文档 - IMDB 文本分类
 date: 2019-07-09 00:40:10
-description: TF2.0 TensorFlow 2 / 2.0 官方文档中文版，文本分类 Classify text，示例使用 IMDB 数据集。
+description: TensorFlow2.0 TF2.0 TensorFlow 2 / 2.0 官方文档中文版，文本分类 Classify text，示例使用 IMDB 数据集。
 tags:
 - TensorFlow 2
 - 官方文档
-- Classify text
 keywords:
+- Classify text
+- TensorFlow2.0
 - IMDB datasets
 - 文本分类
 categories:

@@ -1,10 +1,13 @@
 ---
 title: TensorFlow 2 / 2.0 中文文档
 date: 2019-07-09 00:10:10
-description: TensorFlow 2 官方文档中文版，有删改，序言，介绍整个文档的构成。
+description: TensorFlow2.0 TF2.0 TensorFlow 2 / 2.0 官方文档中文版，有删改，序言，介绍整个文档的构成。
 tags:
 - TensorFlow 2
 - 官方文档
+keywords:
+- TensorFlow2.0
+- TF2.0
 categories:
 - TensorFlow2文档
 image: post/tf2doc/tf.jpg

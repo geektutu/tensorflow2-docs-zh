@@ -1,11 +1,12 @@
 ---
 title: TensorFlow 2 中文文档 - 特征工程结构化数据分类
 date: 2019-07-09 23:45:10
-description: TF2.0 TensorFlow 2 / 2.0 官方文档中文版，结构化数据分类 Classify structured data，示例使用心脏病数据集。
+description: TensorFlow2.0 TF2.0 TensorFlow 2 / 2.0 官方文档中文版，结构化数据分类 Classify structured data，示例使用心脏病数据集。
 tags:
 - TensorFlow 2
 - 官方文档
 keywords:
+- TensorFlow2.0
 - Feature Column
 - structured data
 categories:

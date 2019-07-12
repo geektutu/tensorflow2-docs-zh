@@ -1,4 +1,6 @@
 .DS_Store
 .vscode
 *.mx
-.ipynb_checkpoints
+# code only include ipynb file
+code/*
+!code/*.ipynb

@@ -1,11 +1,12 @@
 ---
 title: TensorFlow 2 中文文档 - MNIST 图像分类
 date: 2019-07-09 00:30:10
-description: TF2.0 TensorFlow 2 / 2.0 官方文档中文版，图像分类 Classify images，示例使用 Fashion MNIST 数据集。
+description: TensorFlow2.0 TF2.0 TensorFlow 2 / 2.0 官方文档中文版，图像分类 Classify images，示例使用 Fashion MNIST 数据集。
 tags:
 - TensorFlow 2
 - 官方文档
 keywords:
+- TensorFlow2.0
 - Fashion MNIST
 - 图像分类
 - Classify images
