@@ -189,5 +189,7 @@ TensorFlow 中还有其他的方式可以保存模型。
 - [Saving in eager](https://www.tensorflow.org/guide/eager#object_based_saving) eager 模型保存模型
 - [Save and Restore](https://www.tensorflow.org/guide/saved_model) -- low-level 的接口。
 
+返回[文档首页](https://geektutu.com/post/tf2doc.html)
+
 > 完整代码：[Github - save_restore_model.ipynb](https://github.com/geektutu/tensorflow2-docs-zh/tree/master/code)
 > 参考文档：[Save and restore models](https://www.tensorflow.org/beta/tutorials/keras/save_and_restore_models)

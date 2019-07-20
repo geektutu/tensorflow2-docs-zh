@@ -10,6 +10,7 @@ keywords:
 - TF2.0
 categories:
 - TensorFlow2文档
+top: 1
 image: post/tf2doc/tf.jpg
 github: https://github.com/geektutu/tensorflow2-docs-zh
 ---
@@ -32,6 +33,12 @@ github: https://github.com/geektutu/tensorflow2-docs-zh
 4. [回归 Regression](https://geektutu.com/post/tf2doc-ml-basic-regression.html)
 5. [过拟合与欠拟合 Overfitting and underfitting](https://geektutu.com/post/tf2doc-ml-basic-overfit.html)
 6. [保存和恢复模型 Save and restore models](https://geektutu.com/post/tf2doc-ml-basic-save-model.html)
+
+### 基础 - 图像分类
+
+1. [卷积神经网络 Convolutional Neural Networks](https://geektutu.com/post/tf2doc-cnn-cifar10.html)
+2. [使用TFHub进行迁移学习 TensorFlow Hub with Keras](https://geektutu.com/post/tf2doc-tfhub-image-tl.html)
+3. 使用预训练CNN进行迁移学习 Transfer Learning Using Pretrained ConvNets
 
 ### 进阶 - 自定义
 
