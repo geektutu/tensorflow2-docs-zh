@@ -25,6 +25,10 @@
 2. [使用TFHub进行迁移学习 TensorFlow Hub with Keras](https://geektutu.com/post/tf2doc-tfhub-image-tl.html)
 3. 使用预训练CNN进行迁移学习 Transfer Learning Using Pretrained ConvNets
 
+### 基础 - 文本分类
+
+1. [使用RNN对文本分类进行分类 Text classification with an RNN](https://geektutu.com/post/tf2doc-rnn-lstm-text.html)
+
 ### 进阶 - 自定义
 
 1. 张量和操作 Tensors and operations

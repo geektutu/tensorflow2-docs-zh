@@ -158,4 +158,4 @@ print(acc)
 返回[文档首页](https://geektutu.com/post/tf2doc.html)
 
 > 完整代码：[Github - tfhub_image_transfer_learning.ipynb](https://github.com/geektutu/tensorflow2-docs-zh/tree/master/code)
-> 参考文档：[TensorFlow Hub with Keras](https://www.tensorflow.org/beta/tutorials/images/hub_with_keras#download_the_headless_model)
+> 参考文档：[TensorFlow Hub with Keras](https://www.tensorflow.org/beta/tutorials/images/hub_with_keras)
