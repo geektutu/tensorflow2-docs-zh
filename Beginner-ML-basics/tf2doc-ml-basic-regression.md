@@ -9,6 +9,7 @@ keywords:
 - TensorFlow2.0
 - Regression
 - 回归
+nav: TensorFlow
 categories:
 - TensorFlow2文档
 image: post/tf2doc-ml-basic-regression/sns.jpg

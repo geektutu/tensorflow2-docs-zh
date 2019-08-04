@@ -10,6 +10,7 @@ keywords:
 - TensorFlow2.0
 - IMDB datasets
 - 文本分类
+nav: TensorFlow
 categories:
 - TensorFlow2文档
 image: post/tf2doc-ml-basic-text/imdb-sm.jpg

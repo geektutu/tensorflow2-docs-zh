@@ -2,12 +2,12 @@
 
 ![TensorFlow 2.0](tf2doc/tf.jpg)
 
-## 地址
+## 相关链接
 
-- 文档地址：[TensorFlow 2 中文文档](https://geektutu.com/post/tf2doc.html)
-- Github：[Github - tensorflow2-docs](https://github.com/geektutu/tensorflow2-docs-zh)
-- 知乎专栏：[Zhihu - Tensorflow2-docs](https://zhuanlan.zhihu.com/geektutu)
-
+- [知乎专栏](https://zhuanlan.zhihu.com/geektutu)
+- [机器学习笔试面试题](https://geektutu.com/post/qa-ml-1.html)，[Github](https://github.com/geektutu/interview-questions)
+- [TensorFlow 2.0 中文文档](https://geektutu.com/post/tf2doc.html)，[Github](https://github.com/geektutu/tensorflow2-docs-zh)
+- [TensorFlow 2.0 图像识别&强化学习实战](https://geektutu.com/post/tensorflow2-mnist-cnn.html)，[Github](https://github.com/geektutu/tensorflow-tutorial-samples)
 ## 目录(持续更新)
 
 ### 基础 - 机器学习基础 ML basics

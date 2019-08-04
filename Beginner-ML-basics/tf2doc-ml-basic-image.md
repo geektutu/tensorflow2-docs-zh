@@ -10,6 +10,7 @@ keywords:
 - Fashion MNIST
 - 图像分类
 - Classify images
+nav: TensorFlow
 categories:
 - TensorFlow2文档
 image: post/tf2doc-ml-basic-image/fashion-mnist-sm.jpg

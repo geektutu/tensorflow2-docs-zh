@@ -9,6 +9,7 @@ keywords:
 - TensorFlow2.0
 - Feature Column
 - structured data
+nav: TensorFlow
 categories:
 - TensorFlow2文档
 image: post/tf2doc-ml-basic-structured-data/structured-data.jpg

@@ -7,6 +7,7 @@ tags:
 - 官方文档
 keywords:
 - TensorFlow2.0
+nav: TensorFlow
 categories:
 - TensorFlow2文档
 image: post/tf2doc-cnn-cifar10/cifar10-eg.jpg
