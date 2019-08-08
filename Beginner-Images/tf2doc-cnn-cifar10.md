@@ -1,12 +1,14 @@
 ---
 title: TensorFlow 2 中文文档 - 卷积神经网络分类 CIFAR-10
 date: 2019-07-19 20:00:10
-description: TensorFlow2.0 TF2.0 TensorFlow 2 / 2.0 官方文档中文版，卷积神经网络(Convolutional Neural Networks, CNN)分类 CIFAR-10 。
+description: TensorFlow2文档，TensorFlow2.0文档，TensorFlow2.0 TF2.0 TensorFlow 2 / 2.0 官方文档中文版，卷积神经网络(Convolutional Neural Networks, CNN)分类 CIFAR-10 。
 tags:
 - TensorFlow 2
 - 官方文档
 keywords:
 - TensorFlow2.0
+- TensorFlow2文档
+- TensorFlow2.0文档
 nav: TensorFlow
 categories:
 - TensorFlow2文档

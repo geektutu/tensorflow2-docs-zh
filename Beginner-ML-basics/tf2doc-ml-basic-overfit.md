@@ -1,12 +1,14 @@
 ---
 title: TensorFlow 2 中文文档 - 过拟合与欠拟合
 date: 2019-07-12 01:10:10
-description: TensorFlow2.0 TF2.0 TensorFlow 2 / 2.0 官方文档中文版，过拟合与欠拟合 Explore overfitting and underfitting，示例使用 IMDB 影评数据集。
+description: TensorFlow2文档，TensorFlow2.0文档，TensorFlow2.0 TF2.0 TensorFlow 2 / 2.0 官方文档中文版，过拟合与欠拟合 Explore overfitting and underfitting，示例使用 IMDB 影评数据集。
 tags:
 - TensorFlow 2
 - 官方文档
 keywords:
 - TensorFlow2.0
+- TensorFlow2文档
+- TensorFlow2.0文档
 - overfitting
 - 过拟合
 nav: TensorFlow

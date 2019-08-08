@@ -1,12 +1,14 @@
 ---
 title: TensorFlow 2 中文文档 - 保存与加载模型
 date: 2019-07-13 00:05:10
-description: TensorFlow2.0 TF2.0 TensorFlow 2 / 2.0 官方文档中文版，保存与加载模型 Save and Restore model。
+description: TensorFlow2文档，TensorFlow2.0文档，TensorFlow2.0 TF2.0 TensorFlow 2 / 2.0 官方文档中文版，保存与加载模型 Save and Restore model。
 tags:
 - TensorFlow 2
 - 官方文档
 keywords:
 - TensorFlow2.0
+- TensorFlow2文档
+- TensorFlow2.0文档
 - overfitting
 - 过拟合
 nav: TensorFlow

@@ -1,12 +1,14 @@
 ---
 title: TensorFlow 2 中文文档 - RNN LSTM 文本分类
 date: 2019-07-22 23:18:10
-description: TensorFlow2.0 TF2.0 TensorFlow 2 / 2.0 官方文档中文版，循环神经网络(Recurrent Neural Network, RNN) 和 长短期记忆模型(Long Short-Term Memory，LSTM) 分类 IMDB 。
+description: TensorFlow2文档，TensorFlow2.0文档，TensorFlow2.0 TF2.0 TensorFlow 2 / 2.0 官方文档中文版，循环神经网络(Recurrent Neural Network, RNN) 和 长短期记忆模型(Long Short-Term Memory，LSTM) 分类 IMDB 。
 tags:
 - TensorFlow 2
 - 官方文档
 keywords:
 - TensorFlow2.0
+- TensorFlow2文档
+- TensorFlow2.0文档
 nav: TensorFlow
 categories:
 - TensorFlow2文档
