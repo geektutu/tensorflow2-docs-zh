@@ -210,3 +210,6 @@ for name, value in zip(model.metrics_names, results):
 
 > 参考地址：[Text classification of movie reviews with Keras and TensorFlow Hub](https://www.tensorflow.org/beta/tutorials/keras/basic_text_classification_with_tfhub)
 
+## 附 推荐
+
+- [一篇文章入门 Python](https://geektutu.com/post/quick-python.html)

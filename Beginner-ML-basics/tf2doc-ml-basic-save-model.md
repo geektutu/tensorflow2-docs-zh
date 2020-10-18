@@ -196,3 +196,7 @@ TensorFlow 中还有其他的方式可以保存模型。
 
 > 完整代码：[Github - save_restore_model.ipynb](https://github.com/geektutu/tensorflow2-docs-zh/tree/master/code)
 > 参考文档：[Save and restore models](https://www.tensorflow.org/beta/tutorials/keras/save_and_restore_models)
+
+## 附 推荐
+
+- [一篇文章入门 Python](https://geektutu.com/post/quick-python.html)

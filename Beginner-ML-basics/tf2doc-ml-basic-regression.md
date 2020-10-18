@@ -342,3 +342,7 @@ plt.plot([-100, 100], [-100, 100])
 
 > 完整代码：[Github - auto_mpg_regression.ipynb](https://github.com/geektutu/tensorflow2-docs-zh/tree/master/code)
 > 参考文档：[Regression: Predict fuel efficiency](https://www.tensorflow.org/beta/tutorials/keras/basic_regression)
+
+## 附 推荐
+
+- [一篇文章入门 Python](https://geektutu.com/post/quick-python.html)

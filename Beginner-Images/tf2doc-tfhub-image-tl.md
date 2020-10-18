@@ -162,3 +162,7 @@ print(acc)
 
 > 完整代码：[Github - tfhub_image_transfer_learning.ipynb](https://github.com/geektutu/tensorflow2-docs-zh/tree/master/code)
 > 参考文档：[TensorFlow Hub with Keras](https://www.tensorflow.org/beta/tutorials/images/hub_with_keras)
+
+## 附 推荐
+
+- [一篇文章入门 Python](https://geektutu.com/post/quick-python.html)

@@ -20,6 +20,8 @@ github: https://github.com/geektutu/tensorflow2-docs-zh
 
 ![TensorFlow 2.0](tf2doc/tf.jpg)
 
+如果你对 Python 还不熟悉，推荐先阅读 [一篇文章入门 Python](https://geektutu.com/post/quick-python.html)
+
 ## 文档地址
 
 - 文档地址：[TensorFlow 2 / 2.0 中文文档](https://geektutu.com/post/tf2doc.html)

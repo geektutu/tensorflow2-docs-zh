@@ -182,3 +182,6 @@ plot_history([('基线', baseline_history),
 > 参考文档：[Explore overfitting and underfitting](https://www.tensorflow.org/beta/tutorials/keras/overfit_and_underfit)
 
 
+## 附 推荐
+
+- [一篇文章入门 Python](https://geektutu.com/post/quick-python.html)

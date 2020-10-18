@@ -173,3 +173,7 @@ test_labels[0] # 9
 返回[文档首页](https://geektutu.com/post/tf2doc.html)
 
 > 参考地址：[Train your first neural network: basic classification](https://www.tensorflow.org/beta/tutorials/keras/basic_classification)
+
+## 附 推荐
+
+- [一篇文章入门 Python](https://geektutu.com/post/quick-python.html)

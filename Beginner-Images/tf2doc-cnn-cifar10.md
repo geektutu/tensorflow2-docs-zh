@@ -174,3 +174,7 @@ test_acc # 0.683
 
 > 完整代码：[Github - cnn-cifar-10.ipynb](https://github.com/geektutu/tensorflow2-docs-zh/tree/master/code)
 > 参考文档：[Convolutional Neural Networks](https://www.tensorflow.org/beta/tutorials/images/intro_to_cnns)
+
+## 附 推荐
+
+- [一篇文章入门 Python](https://geektutu.com/post/quick-python.html)

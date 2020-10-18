@@ -349,3 +349,7 @@ Accuracy 0.78688526
 返回[文档首页](https://geektutu.com/post/tf2doc.html)
 
 > 参考文档：[Classify structured data](https://www.tensorflow.org/beta/tutorials/keras/feature_columns)
+
+## 附 推荐
+
+- [一篇文章入门 Python](https://geektutu.com/post/quick-python.html)

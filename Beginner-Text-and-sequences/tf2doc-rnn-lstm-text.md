@@ -160,3 +160,7 @@ plot_graphs(history, 'accuracy')
 
 > 完整代码：[Github - rnn-text.ipynb](https://github.com/geektutu/tensorflow2-docs-zh/tree/master/code)
 > 参考文档：[Text classification with an RNN](https://www.tensorflow.org/beta/tutorials/text/text_classification_rnn)
+
+## 附 推荐
+
+- [一篇文章入门 Python](https://geektutu.com/post/quick-python.html)
