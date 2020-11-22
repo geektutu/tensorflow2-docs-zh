@@ -12,9 +12,9 @@ keywords:
 - TensorFlow2.0文档
 - IMDB datasets
 - 文本分类
-nav: TensorFlow
+nav: 简明教程
 categories:
-- TensorFlow2文档
+- TensorFlow2 文档
 image: post/tf2doc-ml-basic-text/imdb-sm.jpg
 github: https://github.com/geektutu/tensorflow2-docs-zh
 ---

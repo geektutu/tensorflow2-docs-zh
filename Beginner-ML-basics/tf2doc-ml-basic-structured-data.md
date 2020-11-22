@@ -11,9 +11,9 @@ keywords:
 - TensorFlow2.0文档
 - Feature Column
 - structured data
-nav: TensorFlow
+nav: 简明教程
 categories:
-- TensorFlow2文档
+- TensorFlow2 文档
 image: post/tf2doc-ml-basic-structured-data/structured-data.jpg
 github: https://github.com/geektutu/tensorflow2-docs-zh
 ---

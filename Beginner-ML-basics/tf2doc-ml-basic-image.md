@@ -12,9 +12,9 @@ keywords:
 - Fashion MNIST
 - 图像分类
 - Classify images
-nav: TensorFlow
+nav: 简明教程
 categories:
-- TensorFlow2文档
+- TensorFlow2 文档
 image: post/tf2doc-ml-basic-image/fashion-mnist-sm.jpg
 github: https://github.com/geektutu/tensorflow2-docs-zh
 ---
