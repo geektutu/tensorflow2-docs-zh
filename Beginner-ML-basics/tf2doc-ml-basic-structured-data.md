@@ -20,6 +20,11 @@ github: https://github.com/geektutu/tensorflow2-docs-zh
 
 ![structured-data](tf2doc-ml-basic-structured-data/structured-data.jpg)
 
+<style>
+@media (min-width: 992px) {.gkt-article-start + p > img {min-height: 12rem;}}
+.gkt-article-start + p > img {width: auto;}
+</style>
+
 **TF2.0 TensorFlow 2 / 2.0 中文文档 - 结构化数据分类 Classify structured data**
 
 主要内容：介绍如何对结构化数据（例如 CSV 中的表格数据）分类。

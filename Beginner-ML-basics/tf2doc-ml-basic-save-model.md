@@ -20,6 +20,11 @@ github: https://github.com/geektutu/tensorflow2-docs-zh
 
 ![TensorFlow HDF5](tf2doc-ml-basic-save-model/hdf5.png)
 
+<style>
+@media (min-width: 992px) {.gkt-article-start + p > img {min-height: 10rem;}}
+.gkt-article-start + p > img {width: auto;}
+</style>
+
 **TF2.0 TensorFlow 2 / 2.0 中文文档：保存与加载模型 Save and Restore model**
 
 主要内容：使用 `tf.keras`接口训练、保存、加载模型，数据集选用 MNIST 。
